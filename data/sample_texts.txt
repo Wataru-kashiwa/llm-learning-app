@@ -1,0 +1,12 @@
+Artificial intelligence (AI) is intelligence—perceiving, synthesizing, and inferring information—demonstrated by machines, as opposed to intelligence displayed by non-human animals and humans.
+Example tasks in which this is done include speech recognition, computer vision, translation between (natural) languages, as well as other mappings of inputs.
+AI applications include advanced web search engines (e.g., Google Search), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Waymo), generative or creative tools (ChatGPT and AI art), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).
+Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions.
+Deep learning is a subset of machine learning that uses neural networks with many layers.
+Large language models (LLMs) are a type of artificial intelligence (AI) algorithm that uses deep learning techniques and massively large data sets to understand, summarize, generate, and predict new content.
+The term generative AI is closely connected with LLMs, which are, in fact, a type of generative AI that has been specifically architected to help generate text-based content.
+Transformer models are a type of deep learning model that adopts the mechanism of self-attention, differentially weighting the significance of each part of the input data.
+Primary component of Transformer is the self-attention mechanism which allows the model to process data in parallel and capture long-range dependencies.
+Tokenization is the process of replacing sensitive data with unique identification symbols that retain all the essential information about the data without compromising its security. In NLP, it refers to breaking down text into smaller units called tokens.
+Fine-tuning is an approach to transfer learning in which the weights of a pre-trained model are trained on new data.
+Transfer learning is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.
